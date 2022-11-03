@@ -6,7 +6,6 @@
 
 body {
     font-family: "Montserrat", sans-serif;
-    background-color: rgb(247, 247, 247)
 }
 
 .background-image {
@@ -45,7 +44,7 @@ h2 {
     display: flex;
     justify-content: space-around;
     text-allign: center;
-    color: #FFFFFF;
+    color: #ffffff;
 }
 
 .day,
