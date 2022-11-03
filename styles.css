@@ -44,7 +44,7 @@ h2 {
 .countdown {
     display: flex;
     justify-content: space-around;
-    top: 10%;
+    vertical-align: text-top;
 }
 
 .day,
