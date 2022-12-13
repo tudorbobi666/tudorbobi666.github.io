@@ -35,7 +35,7 @@ nav ul li {
 }
 
 nav ul li a {
-	color: powderwhite;
+	color: powderblue;
 	font-size: 17px;
 	padding: 7px 13px;
 	border-radius: 3px;
@@ -43,7 +43,7 @@ nav ul li a {
 }
 
 a.active, a:hover {
-	background: #1d075f;
+	background: #007337;
 	transition: .5s;
 }
 
